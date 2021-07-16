@@ -51,4 +51,40 @@ record DataJobInfo includes CustomProperties, ExternalReference {
    * Status of the job
    */
   status: optional JobStatus
+
+  @Searchable = {
+    "fieldType": "TEXT",
+  }
+  normalizationRoutine: optional string
+
+  @Searchable = {
+    "fieldType": "TEXT",
+  }
+  normalizationRoutineVersion: optional string
+
+  @Searchable = {
+    "fieldType": "TEXT",
+  }
+  normalizationRoutineArgs: optional string
+
+  @Searchable = {
+    "fieldType": "TEXT",
+  }
+  zeppelinNotebook: optional string
+
+  @Searchable = {
+    "fieldType": "TEXT",
+  }
+  zeppelinNotebookVersion: optional string
+
+  @Searchable = {
+    "fieldType": "TEXT",
+  }
+  zeppelinNotebookArgs: optional string
+
+  @Searchable = {
+    "fieldType": "TEXT",
+  }
+  runTimestamp: optional string
+
 }
