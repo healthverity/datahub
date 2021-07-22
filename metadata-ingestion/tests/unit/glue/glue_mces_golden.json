@@ -53,7 +53,16 @@
               "externalUrl": null,
               "description": null,
               "uri": null,
-              "tags": []
+              "tags": [],
+              "batchId": null,
+              "orgId": null,
+              "feedType": null,
+              "dataProfileUrl": null,
+              "url": null,
+              "fileSize": null,
+              "fileArrivalDate": null,
+              "version": null,
+              "dateCreated": null
             }
           },
           {
@@ -249,7 +258,16 @@
               "externalUrl": null,
               "description": null,
               "uri": null,
-              "tags": []
+              "tags": [],
+              "batchId": null,
+              "orgId": null,
+              "feedType": null,
+              "dataProfileUrl": null,
+              "url": null,
+              "fileSize": null,
+              "fileArrivalDate": null,
+              "version": null,
+              "dateCreated": null
             }
           },
           {
@@ -357,7 +375,16 @@
               "externalUrl": null,
               "description": null,
               "uri": null,
-              "tags": []
+              "tags": [],
+              "batchId": null,
+              "orgId": null,
+              "feedType": null,
+              "dataProfileUrl": null,
+              "url": null,
+              "fileSize": null,
+              "fileArrivalDate": null,
+              "version": null,
+              "dateCreated": null
             }
           },
           {
@@ -526,7 +553,14 @@
                 "string": "GLUE"
               },
               "flowUrn": null,
-              "status": null
+              "status": null,
+              "normalizationRoutine": null,
+              "normalizationRoutineVersion": null,
+              "normalizationRoutineArgs": null,
+              "zeppelinNotebook": null,
+              "zeppelinNotebookVersion": null,
+              "zeppelinNotebookArgs": null,
+              "runTimestamp": null
             }
           },
           {
@@ -564,7 +598,14 @@
                 "string": "GLUE"
               },
               "flowUrn": null,
-              "status": null
+              "status": null,
+              "normalizationRoutine": null,
+              "normalizationRoutineVersion": null,
+              "normalizationRoutineArgs": null,
+              "zeppelinNotebook": null,
+              "zeppelinNotebookVersion": null,
+              "zeppelinNotebookArgs": null,
+              "runTimestamp": null
             }
           },
           {
@@ -602,7 +643,14 @@
                 "string": "GLUE"
               },
               "flowUrn": null,
-              "status": null
+              "status": null,
+              "normalizationRoutine": null,
+              "normalizationRoutineVersion": null,
+              "normalizationRoutineArgs": null,
+              "zeppelinNotebook": null,
+              "zeppelinNotebookVersion": null,
+              "zeppelinNotebookArgs": null,
+              "runTimestamp": null
             }
           },
           {
@@ -641,7 +689,14 @@
                 "string": "GLUE"
               },
               "flowUrn": null,
-              "status": null
+              "status": null,
+              "normalizationRoutine": null,
+              "normalizationRoutineVersion": null,
+              "normalizationRoutineArgs": null,
+              "zeppelinNotebook": null,
+              "zeppelinNotebookVersion": null,
+              "zeppelinNotebookArgs": null,
+              "runTimestamp": null
             }
           },
           {
@@ -679,7 +734,14 @@
                 "string": "GLUE"
               },
               "flowUrn": null,
-              "status": null
+              "status": null,
+              "normalizationRoutine": null,
+              "normalizationRoutineVersion": null,
+              "normalizationRoutineArgs": null,
+              "zeppelinNotebook": null,
+              "zeppelinNotebookVersion": null,
+              "zeppelinNotebookArgs": null,
+              "runTimestamp": null
             }
           },
           {
@@ -715,7 +777,14 @@
                 "string": "GLUE"
               },
               "flowUrn": null,
-              "status": null
+              "status": null,
+              "normalizationRoutine": null,
+              "normalizationRoutineVersion": null,
+              "normalizationRoutineArgs": null,
+              "zeppelinNotebook": null,
+              "zeppelinNotebookVersion": null,
+              "zeppelinNotebookArgs": null,
+              "runTimestamp": null
             }
           },
           {
@@ -752,7 +821,16 @@
               "externalUrl": null,
               "description": null,
               "uri": null,
-              "tags": []
+              "tags": [],
+              "batchId": null,
+              "orgId": null,
+              "feedType": null,
+              "dataProfileUrl": null,
+              "url": null,
+              "fileSize": null,
+              "fileArrivalDate": null,
+              "version": null,
+              "dateCreated": null
             }
           }
         ]
@@ -783,7 +861,14 @@
                 "string": "GLUE"
               },
               "flowUrn": null,
-              "status": null
+              "status": null,
+              "normalizationRoutine": null,
+              "normalizationRoutineVersion": null,
+              "normalizationRoutineArgs": null,
+              "zeppelinNotebook": null,
+              "zeppelinNotebookVersion": null,
+              "zeppelinNotebookArgs": null,
+              "runTimestamp": null
             }
           },
           {
@@ -821,7 +906,14 @@
                 "string": "GLUE"
               },
               "flowUrn": null,
-              "status": null
+              "status": null,
+              "normalizationRoutine": null,
+              "normalizationRoutineVersion": null,
+              "normalizationRoutineArgs": null,
+              "zeppelinNotebook": null,
+              "zeppelinNotebookVersion": null,
+              "zeppelinNotebookArgs": null,
+              "runTimestamp": null
             }
           },
           {
@@ -859,7 +951,14 @@
                 "string": "GLUE"
               },
               "flowUrn": null,
-              "status": null
+              "status": null,
+              "normalizationRoutine": null,
+              "normalizationRoutineVersion": null,
+              "normalizationRoutineArgs": null,
+              "zeppelinNotebook": null,
+              "zeppelinNotebookVersion": null,
+              "zeppelinNotebookArgs": null,
+              "runTimestamp": null
             }
           },
           {
@@ -897,7 +996,14 @@
                 "string": "GLUE"
               },
               "flowUrn": null,
-              "status": null
+              "status": null,
+              "normalizationRoutine": null,
+              "normalizationRoutineVersion": null,
+              "normalizationRoutineArgs": null,
+              "zeppelinNotebook": null,
+              "zeppelinNotebookVersion": null,
+              "zeppelinNotebookArgs": null,
+              "runTimestamp": null
             }
           },
           {
@@ -938,7 +1044,16 @@
               "externalUrl": null,
               "description": null,
               "uri": null,
-              "tags": []
+              "tags": [],
+              "batchId": null,
+              "orgId": null,
+              "feedType": null,
+              "dataProfileUrl": null,
+              "url": null,
+              "fileSize": null,
+              "fileArrivalDate": null,
+              "version": null,
+              "dateCreated": null
             }
           }
         ]
