@@ -15,7 +15,7 @@
     "lint-check": "prettier -l generateDocsDir.ts sidebars.js src/pages/index.js"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-beta.2",
+    "@docusaurus/core": "^2.4.3",
     "@docusaurus/plugin-ideal-image": "^2.0.0-beta.2",
     "@docusaurus/preset-classic": "^2.0.0-beta.2",
     "@octokit/plugin-retry": "^3.0.9",
